@@ -3,6 +3,7 @@
 A collaborative knowledge base created by our three-person team during IYF Season 12 Week 0. Each team member contributes a short section about a tool, programming language, or study technique we use, such as VS Code shortcuts, Git and GitHub, and spaced repetition. This repository also gives us practical experience with the branch, pull request, code review, and merge workflow that we will use throughout the semester.
 
 ## okoyo13 — VS Code Tips
+
 <!--okoyo13 will add this section here-->
 
 Visual Studio Code (VS Code) is a powerful code editor that helps developers write, edit, and manage code efficiently. It provides useful keyboard shortcuts, such as **`Ctrl + S`** to save files, **`Ctrl + C`** to copy text, **`Ctrl + V`** to paste text, **`Ctrl + Z`** to undo changes, and **`Ctrl + /`** to comment or uncomment a line of code. You can also use **`Alt + Shift + F`** to format your code and make it easier to read.
@@ -29,8 +30,39 @@ You can use the **Source Control** panel in VS Code to track changes, create com
 
 **Tip:** Practice using keyboard shortcuts, keep your code organized, and explore useful extensions to become more productive in VS Code.
 
+## Essential VS Code Keyboard Shortcuts
+
+Visual Studio Code provides keyboard shortcuts that help developers work faster and navigate the editor efficiently. Learning these shortcuts can improve productivity and make coding easier.
+
+### Editing and Formatting
+
+- **`Ctrl + S`** — Save the current file.
+- **`Ctrl + Z`** — Undo the last action.
+- **`Ctrl + Shift + Z`** — Redo the last action.
+- **`Ctrl + /`** — Toggle line comments.
+- **`Alt + Shift + F`** — Format the current file.
+- **`Ctrl + D`** — Select the next occurrence of the current word.
+
+### Navigation
+
+- **`Ctrl + P`** — Quickly open a file by name.
+- **`Ctrl + Shift + P`** — Open the Command Palette.
+- **`Ctrl + G`** — Go to a specific line.
+- **`Ctrl + Shift + F`** — Search across project files.
+- **`Ctrl + B`** — Show or hide the sidebar.
+
+### Terminal and Extensions
+
+- **`Ctrl + Shift + `` `** — Open a new integrated terminal (the backtick key may vary by keyboard layout).
+- **`Ctrl + Shift + X`** — Open the Extensions panel.
+- **`Ctrl + Shift + G`** — Open Source Control.
+
+### Tips for Using Shortcuts
+
+Practice these shortcuts regularly to build familiarity. You can also open the Command Palette with `Ctrl + Shift + P` to discover additional commands and keyboard shortcuts. On macOS, many `Ctrl` shortcuts use `Cmd` instead.
 
 ## Wilfred-Mutuma — Git & Github
+
 <!--Wilfred-Mutuma will add this section here-->
 
 Git is a version control system that helps developers track changes
@@ -86,24 +118,25 @@ Include `Closes #10` in the pull request description when the pull request addre
 
 #### Team Collaboration Rules
 
-* Work on your own branch.
-* Use clear commit messages.
-* Review teammates' pull requests respectfully.
-* Resolve conflicts before merging.
-* Keep the `main` branch stable.
+- Work on your own branch.
+- Use clear commit messages.
+- Review teammates' pull requests respectfully.
+- Resolve conflicts before merging.
+- Keep the `main` branch stable.
 
 ### Pull Request Checklist
 
 Before submitting a pull request, make sure you:
 
-* [ ] Created a branch for your work.
-* [ ] Made and checked your changes.
-* [ ] Used a clear commit message.
-* [ ] Explained your changes in the pull request description.
-* [ ] Requested a review from a teammate.
-* [ ] Addressed review comments before merging.
-
+- [ ] Created a branch for your work.
+- [ ] Made and checked your changes.
+- [ ] Used a clear commit message.
+- [ ] Explained your changes in the pull request description.
+- [ ] Requested a review from a teammate.
+- [ ] Addressed review comments before merging.
 
 ## Javandaizy85-commits — Study Techniques
+
 <!--Javandaizy85-commits will add this section here-->
-I use simple study techniques that help me remember HTML and computer skills. My techniques are Active Recall (typing tags from memory), Spaced Repetition (revising every 2 days), Pomodoro (25 min work / 5 min break), and Teaching friends  I use VS Code, GitHub mobile app and YouTube.
+
+I use simple study techniques that help me remember HTML and computer skills. My techniques are Active Recall (typing tags from memory), Spaced Repetition (revising every 2 days), Pomodoro (25 min work / 5 min break), and Teaching friends I use VS Code, GitHub mobile app and YouTube.
