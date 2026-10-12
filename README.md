@@ -34,6 +34,51 @@ collaborate with other developers through pull requests and reviews.
 - `git push` — uploads changes to GitHub
 - `git pull` — downloads the latest changes
 
+### Git and GitHub Collaboration Workflow
+
+Follow these steps when contributing to our team repository.
+
+#### 1. Create a Branch
+
+Create a separate branch for your work instead of making changes directly to the `main` branch. Give your branch a meaningful name related to your task.
+
+#### 2. Make Your Changes
+
+Edit the necessary files in your branch. Check your changes carefully before submitting them.
+
+#### 3. Commit Your Changes
+
+A commit records the changes you have made. Write a clear commit message describing your work.
+
+#### 4. Push Your Branch
+
+Push your branch to GitHub so your teammates can access your changes.
+
+#### 5. Open a Pull Request
+
+Create a pull request to propose merging your branch into `main`. Explain what you changed and link the related GitHub Issue.
+
+#### 6. Review the Pull Request
+
+Ask another teammate to review your pull request. The reviewer should check the changes and leave comments or approve the work.
+
+#### 7. Merge the Pull Request
+
+After the required review and approval, merge the pull request into `main`. Resolve any requested changes before merging.
+
+#### 8. Close the Related Issue
+
+Include `Closes #10` in the pull request description when the pull request addresses Issue #10. GitHub will automatically close the issue when the pull request is merged into the repository's default branch.
+
+#### Team Collaboration Rules
+
+* Work on your own branch.
+* Use clear commit messages.
+* Review teammates' pull requests respectfully.
+* Resolve conflicts before merging.
+* Keep the `main` branch stable.
+
+
 ## Javandaizy85-commits — Study Techniques
 <!--Javandaizy85-commits will add this section here-->
 I use simple study techniques that help me remember HTML and computer skills. My techniques are Active Recall (typing tags from memory), Spaced Repetition (revising every 2 days), Pomodoro (25 min work / 5 min break), and Teaching friends  I use VS Code, GitHub mobile app and YouTube.
