@@ -33,10 +33,6 @@ collaborate with other developers through pull requests and reviews.
 - `git commit` — saves changes
 - `git push` — uploads changes to GitHub
 - `git pull` — downloads the latest changes
- 
-- ### Git Collaboration
-
-When working in a team, each developer should create a separate branch for their work. After making changes, they can open a pull request so another teammate can review the work before it is merged into the main branch.
 
 ## Javandaizy85-commits — Study Techniques
 <!--Javandaizy85-commits will add this section here-->
