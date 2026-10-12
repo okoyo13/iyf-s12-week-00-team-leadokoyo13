@@ -4,17 +4,30 @@ A collaborative knowledge base created by our three-person team during IYF Seaso
 
 ## okoyo13 — VS Code Tips
 <!--okoyo13 will add this section here-->
-Visual Studio Code is my main editor. The shortcuts I use most are `Ctrl+P` to
-jump to a file and `Ctrl+Shift+P` to open the command palette. My favourite
-extensions are **Prettier** for formatting and **GitLens** for inline blame.
-The [official docs](https://code.visualstudio.com/docs) are worth skimming once.
+Visual Studio Code (VS Code) is a powerful code editor that helps developers write, edit, and manage code efficiently. It provides useful keyboard shortcuts, such as **`Ctrl + S`** to save files, **`Ctrl + C`** to copy text, **`Ctrl + V`** to paste text, **`Ctrl + Z`** to undo changes, and **`Ctrl + /`** to comment or uncomment a line of code. You can also use **`Alt + Shift + F`** to format your code and make it easier to read.
 
-Key shortcuts I rely on:
+### Using the Integrated Terminal
 
-- `Ctrl+P` — quick open file
-- `Ctrl+Shift+P` — command palette
-- `` Ctrl+` `` — toggle terminal
-- `Alt+↑ / Alt+↓` — move line up/down
+VS Code has an integrated terminal that allows you to run commands without leaving the editor. For example, you can use `node --version` to check whether Node.js is installed or `node app.js` to run a JavaScript file named `app.js`.
+
+### Writing HTML Faster
+
+When writing HTML, you can use **Emmet** by typing `!` in an HTML file and pressing `Tab` or `Enter`, depending on your settings, to generate the basic HTML boilerplate automatically.
+
+### Useful Extensions
+
+You can improve your coding experience by installing extensions such as **Live Server** for previewing web pages in a browser, **Prettier** for formatting code, and **ESLint** for identifying potential JavaScript errors.
+
+### Organizing Your Projects
+
+Keep your projects organized by using meaningful file names, such as `index.html`, `style.css`, and `script.js`. Save your work regularly using `Ctrl + S` and group related files into clearly named folders.
+
+### Working with Git and GitHub
+
+You can use the **Source Control** panel in VS Code to track changes, create commits, and synchronize your work with GitHub. This makes it easier to collaborate with other developers and manage project versions.
+
+**Tip:** Practice using keyboard shortcuts, keep your code organized, and explore useful extensions to become more productive in VS Code.
+
 
 ## Wilfred-Mutuma — Git & Github
 <!--Wilfred-Mutuma will add this section here-->
