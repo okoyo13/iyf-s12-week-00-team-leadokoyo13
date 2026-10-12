@@ -78,6 +78,17 @@ Include `Closes #10` in the pull request description when the pull request addre
 * Resolve conflicts before merging.
 * Keep the `main` branch stable.
 
+### Pull Request Checklist
+
+Before submitting a pull request, make sure you:
+
+* [ ] Created a branch for your work.
+* [ ] Made and checked your changes.
+* [ ] Used a clear commit message.
+* [ ] Explained your changes in the pull request description.
+* [ ] Requested a review from a teammate.
+* [ ] Addressed review comments before merging.
+
 
 ## Javandaizy85-commits — Study Techniques
 <!--Javandaizy85-commits will add this section here-->
