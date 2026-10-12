@@ -1,10 +1,6 @@
 # Team Knowledge Base — Week 0
 
-A shared knowledge base built by our three-person team during IYF S12 Week 0.
-Each of us contributes a short section on a tool, language, or study technique
-we actually use — from VS Code shortcuts to spaced repetition. This repo is also
-our first rehearsal of the full branch → pull request → review workflow we'll
-use all semester.
+A shared knowledge base our three-person team built during Week 0 of IYF S12. Each of us wrote a short entry on a tool, language, or study technique we genuinely use — everything from VS Code shortcuts to spaced repetition. This repo also served as our first run-through of the branch → pull request → review workflow we'll rely on all semester.
 
 ## okoyo13 — VS Code Tips
 <!--okoyo13 will add this section here-->
