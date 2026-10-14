@@ -6,6 +6,29 @@ A collaborative knowledge base created by our three-person team during IYF Seaso
 <!--okoyo13 will add this section here-->
 
 Visual Studio Code (VS Code) is a powerful code editor that helps developers write, edit, and manage code efficiently. It provides useful keyboard shortcuts, such as **`Ctrl + S`** to save files, **`Ctrl + C`** to copy text, **`Ctrl + V`** to paste text, **`Ctrl + Z`** to undo changes, and **`Ctrl + /`** to comment or uncomment a line of code. You can also use **`Alt + Shift + F`** to format your code and make it easier to read.
+### Essential VS Code Keyboard Shortcuts
+
+The following keyboard shortcuts help developers work faster and more efficiently in Visual Studio Code on Windows.
+
+| Keyboard Shortcut  | Function                              |
+| ------------------ | ------------------------------------- |
+| `Ctrl + S`         | Save the current file                 |
+| `Ctrl + C`         | Copy selected text                    |
+| `Ctrl + V`         | Paste copied text                     |
+| `Ctrl + X`         | Cut selected text                     |
+| `Ctrl + Z`         | Undo the last action                  |
+| `Ctrl + Y`         | Redo the last action                  |
+| `Ctrl + A`         | Select all content                    |
+| `Ctrl + F`         | Find text in the current file         |
+| `Ctrl + H`         | Find and replace text                 |
+| `Ctrl + /`         | Comment or uncomment a line           |
+| `Shift + Alt + F`  | Format the current document           |
+| `Ctrl + Shift + P` | Open the Command Palette              |
+| `Ctrl + P`         | Quickly open a file                   |
+| `` Ctrl + ` ``     | Open or close the integrated terminal |
+
+**Tip:** Practice these shortcuts regularly to improve your speed and productivity when coding.
+
 
 ### Using the Integrated Terminal
 
