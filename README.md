@@ -51,6 +51,34 @@ Keep your projects organized by using meaningful file names, such as `index.html
 You can use the **Source Control** panel in VS Code to track changes, create commits, and synchronize your work with GitHub. This makes it easier to collaborate with other developers and manage project versions.
 
 **Tip:** Practice using keyboard shortcuts, keep your code organized, and explore useful extensions to become more productive in VS Code.
+## Description
+The README lists GitLens (and Prettier) as favourite extensions, but the repo does 
+not recommend them to contributors. When a teammate clones the project and opens 
+it in VS Code, they get no prompt to install these tools, leading to inconsistent 
+editor setups across the team.
+
+## Steps to Reproduce
+1. Clone the repo on a fresh machine
+2. Open the folder in VS Code
+3. Observe that no "recommended extensions" notification appears
+
+## Expected Behavior
+VS Code should prompt the user to install Prettier and GitLens when the workspace 
+is opened for the first time.
+
+## Actual Behavior
+No `.vscode/extensions.json` file exists in the repo, so no recommendations are shown.
+
+## Suggested Fix
+Create a `.vscode/extensions.json` file at the repo root with the following content:
+
+```json
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens"
+  ]
+}
 
 
 ## Wilfred-Mutuma — Git & Github
