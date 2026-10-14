@@ -79,7 +79,7 @@ Create a `.vscode/extensions.json` file at the repo root with the following cont
     "eamodio.gitlens"
   ]
 }
-
+```
 
 ## Wilfred-Mutuma — Git & Github
 <!--Wilfred-Mutuma will add this section here-->
