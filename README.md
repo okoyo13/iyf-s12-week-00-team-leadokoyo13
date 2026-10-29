@@ -1,27 +1,40 @@
-# Rodricks Okoyo
+# Team Collaboration and Markdown Practice
 
-## Welcome to My GitHub Profile 👋
+## Overview
 
-I'm learning web development through the IYF Season 12 program and building my skills in HTML, CSS, JavaScript, Git, and GitHub.
+This repository contains my Week 00 work. The activities focused on learning Git and GitHub basics, practising Markdown, understanding VS Code shortcuts, and collaborating through a team repository.
 
-## My Work
+## Learning Objectives
 
-### Live Website
-[View Live Page](https://okoyo13.github.io/)
+- Understand the basics of Git and GitHub.
+- Practise creating, editing, and formatting Markdown documents.
+- Learn useful VS Code keyboard shortcuts.
+- Work with repositories, branches, commits, and remote repositories.
+- Organize project files and document my learning progress.
 
+## Repository Contents
 
-### Markdown Practice
-[View markdown-practice.md](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13/blob/main/markdown-practice.md)
+| File or Folder | Description |
+|---|---|
+| `README.md` | Overview of the project and learning activities. |
+| `markdown-practice.md` | Practice exercises covering Markdown syntax and formatting. |
+| `.vs code/VSCODE_SHORTCUTS.md` | Notes on useful VS Code keyboard shortcuts. |
 
+*Note: The file and folder names above reflect the work discussed. Adjust them if your actual repository structure differs.*
 
-### Team Project
-[Week 00 Team Repository](https://github.com/okoyo13/iyf-s12-week-00-team-okoyo13)
+## Tools Used
 
+- **Git** — Version control.
+- **GitHub** — Repository hosting and collaboration.
+- **Visual Studio Code** — Code and document editor.
+- **Markdown** — Writing and formatting documentation.
+- **Windows PowerShell** — Running terminal commands.
 
-## About Me
+## What I Learned
 
-- 🌱 Currently learning web development.
-- 💻 Practicing with VS Code, Git, and GitHub.
-- 🎯 Working to become a better developer through hands-on projects.
+Through these activities, I practised organizing project files, writing Markdown documentation, using Git commands to manage changes, and working with GitHub repositories. I also learned the importance of clear documentation and consistent collaboration practices.
 
-Thanks for visiting my profile!
+## Conclusion
+
+Week 00 provided a foundation for my journey in software development by introducing essential tools and practices for version control, documentation, and collaboration. These skills will support my continued learning throughout the IYF program.
+
